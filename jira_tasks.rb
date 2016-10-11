@@ -4,8 +4,6 @@ require 'json'
 require 'net/http'
 require 'openssl'
 
-# This job will count the commits of a all your bitbucket projects
-
 # Config
 jira_board_id      = ""
 jira_username      = ""
